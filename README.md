@@ -34,7 +34,7 @@ I love building solutions that are **useful, elegant, and smart**.
 
 ## 📊 Languages Breakdown
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinacsqueiroz&layout=compact&langs_count=10&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinacsqueiroz&layout=compact&langs_count=20&theme=radical" />
 </p>
 
 
