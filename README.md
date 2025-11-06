@@ -24,7 +24,6 @@ I love building solutions that are **useful, elegant, and smart**.
   <img src="https://img.shields.io/badge/ETL/ELT-4CAF50?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
 </p>
 
-
 <!--## 🌟 Featured Projects
 - 🔐 [SecureAccess](#) — AI-powered access control with facial recognition  
 - 📊 [DataVision](#) — Real-time analytics dashboard  
